@@ -17,6 +17,11 @@ public class GitTextMain {
         System.out.println( "Git分支测试" );
         System.out.println( "Git分支测试" );
         System.out.println( "Git分支测试" );
+        System.out.println( "Git分支测试" );
+        System.out.println( "Git分支测试" );
+        System.out.println( "Git分支测试" );
+        System.out.println( "Git分支测试" );
+        System.out.println( "Git分支测试" );
 
     }
 
