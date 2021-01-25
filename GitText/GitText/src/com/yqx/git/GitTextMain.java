@@ -20,5 +20,8 @@ public class GitTextMain {
 
     }
 
+    public void show(){
+        System.out.println( "haha" );
+    }
 
 }
